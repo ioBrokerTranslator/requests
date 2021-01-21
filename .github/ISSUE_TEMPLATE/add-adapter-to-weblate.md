@@ -3,7 +3,7 @@ name: Add adapter to Weblate
 about: Use this template to request an adapter to be added to Weblate
 title: Add <adapter name> to Weblate
 labels: ''
-assignees: ''
+assignees: UncleSamSwiss
 
 ---
 
