@@ -18,6 +18,7 @@ assignees: UncleSamSwiss
 Please add the following adapter to Weblate:
 Name: ioBroker.mygreatadapter
 URL: https://github.com/MeMyselfAndI/ioBroker.mygreatadapter
+License: MIT, GPL 3, Apache 2, or something else?
 
 **Remarks:**
 <!-- add your remarks here -->
