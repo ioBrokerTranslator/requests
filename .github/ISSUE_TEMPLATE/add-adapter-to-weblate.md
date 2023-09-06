@@ -10,7 +10,7 @@ assignees:
 **Checklist:**
 
 -   [ ] The adapter contains the i18n files in a separate folder with the default naming scheme
--   [ ] All translation JSON files are up-to-date (call `gulp translateAndUpdateWordsJS` and commit and push those changes to master/main)
+-   [ ] All translation JSON files are up-to-date (call `npm run translate all` or `gulp translateAndUpdateWordsJS` and commit and push those changes to master/main)
 -   [ ] Repository hook is configured on GitHub (set the Payload URL to `https://weblate.iobroker.net/hooks/github/`)
 
 **Request:**
